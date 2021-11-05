@@ -1,0 +1,34 @@
+body {
+  background-image: url("/images/pexels-anna.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+#imageSection {
+  size-adjust: 0%;
+  background: linear-gradient(rgb(15, 97, 219), rgb(71, 71, 134));
+  background-position: 0%;
+  background-attachment: fixed;
+}
+#img1 {
+  height: 150px;
+  width: 200px;
+  margin-left: 5%;
+  align-items: start;
+  border-style: outset;
+  border-collapse: collapse;
+}
+
+#img2 {
+  align-items: flex-end;
+  margin-left: 5%;
+  height: 150px;
+  width: 200px;
+  border-style: outset;
+  border-collapse: collapse;
+}
+
+p {
+  background: linear-gradient(rgb(15, 97, 219), rgb(71, 71, 134));
+  text-transform: uppercase;
+}
